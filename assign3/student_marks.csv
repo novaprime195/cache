@@ -1,0 +1,13 @@
+Book_Type,Region,T1,T2,T3,T4
+Physics,Mumbai,600,650,700,750
+Physics,Chennai,400,420,450,470
+Physics,Pune,500,520,550,570
+Physics,Kolkata,800,850,880,900
+Math,Mumbai,450,470,490,510
+Math,Chennai,700,800,900,1000
+Math,Pune,300,320,350,370
+Math,Kolkata,250,270,290,300
+Chemistry,Mumbai,260,280,320,330
+Chemistry,Chennai,600,630,660,690
+Chemistry,Pune,500,530,570,575
+Chemistry,Kolkata,850,870,900,950

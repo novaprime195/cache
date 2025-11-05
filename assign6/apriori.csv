@@ -1,0 +1,6 @@
+TID,Item1,Item2,Item3,Item4
+T1,Milk,Bread,Butter,
+T2,Bread,Butter,Jam,
+T3,Milk,Bread,,
+T4,Milk,Bread,Butter,Jam
+T5,Bread,Butter,,
